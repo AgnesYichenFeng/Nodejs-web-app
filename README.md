@@ -1,2 +1,2 @@
-# Nodejs-web-app
+# Node.js-web-app
 ## Learning
